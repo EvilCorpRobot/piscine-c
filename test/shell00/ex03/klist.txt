@@ -1,0 +1,5 @@
+Credentials cache: API:421AB1A5-D6BD-4E67-ABFE-80F5B86ABBFE
+        Principal: tconte@42.FR
+
+  Issued                Expires               Principal
+Mar  8 14:51:26 2021  Mar 15 14:51:18 2021  krbtgt/42.FR@42.FR
